@@ -1,3 +1,11 @@
+# [1.6.0](https://github.com/Darsh76/node-docker-semantic/compare/v1.5.0...v1.6.0) (2025-03-18)
+
+
+### Features
+
+* hello world ([a428fdb](https://github.com/Darsh76/node-docker-semantic/commit/a428fdb56f199ee4eea1914dd60558bedac93214))
+* version control ([c8acf0c](https://github.com/Darsh76/node-docker-semantic/commit/c8acf0c22774af70b34ddb93188303e8c0b8f20b))
+
 # [1.5.0](https://github.com/Darsh76/node-docker-semantic/compare/v1.4.0...v1.5.0) (2025-03-18)
 
 
