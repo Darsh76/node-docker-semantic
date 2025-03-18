@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/Darsh76/node-docker-semantic/compare/v1.6.0...v1.7.0) (2025-03-18)
+
+
+### Features
+
+* minor changes ([15f110e](https://github.com/Darsh76/node-docker-semantic/commit/15f110e4811ab56d755fa8af97fc888775dac73c))
+
 # [1.6.0](https://github.com/Darsh76/node-docker-semantic/compare/v1.5.0...v1.6.0) (2025-03-18)
 
 
