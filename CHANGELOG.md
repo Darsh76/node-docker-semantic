@@ -1,3 +1,17 @@
+# [1.3.0](https://github.com/Darsh76/node-docker-semantic/compare/v1.2.0...v1.3.0) (2025-03-18)
+
+
+### Features
+
+* Rename DockerFile to Dockerfile ([664223c](https://github.com/Darsh76/node-docker-semantic/commit/664223c6ad16c239eb08de9486fbef58a9165903))
+
+# [1.2.0](https://github.com/Darsh76/node-docker-semantic/compare/v1.1.0...v1.2.0) (2025-03-18)
+
+
+### Features
+
+* modified Dockerfile ([59b8b89](https://github.com/Darsh76/node-docker-semantic/commit/59b8b891496e368da69700885870a1c03d029d04))
+
 # [1.1.0](https://github.com/Darsh76/node-docker-semantic/compare/v1.0.0...v1.1.0) (2025-03-18)
 
 
