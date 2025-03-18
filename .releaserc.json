@@ -5,13 +5,19 @@
       "@semantic-release/release-notes-generator",
       "@semantic-release/changelog",
       [
-        "@semantic-release/npm",
+        "@semantic-release/exec",
         {
-          "npmPublish": false
+          "publishCmd": "echo ::set-output name=VERSION::${nextRelease.version}"
         }
       ],
-      "@semantic-release/github",
-      "@semantic-release/git"
+      [
+        "@semantic-release/git",
+        {
+          "assets": ["CHANGELOG.md", "package.json"],
+          "message": "chore(release): ${nextRelease.version} [skip ci]"
+        }
+      ],
+      "@semantic-release/github"
     ]
   }
   
