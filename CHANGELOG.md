@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/Darsh76/node-docker-semantic/compare/v1.7.1...v1.8.0) (2025-03-18)
+
+
+### Features
+
+* introduce a breaking change ([6d2a6ce](https://github.com/Darsh76/node-docker-semantic/commit/6d2a6ce5d244980ae41a7a2bb0af6ad545e7fa9f))
+
 ## [1.7.1](https://github.com/Darsh76/node-docker-semantic/compare/v1.7.0...v1.7.1) (2025-03-18)
 
 
