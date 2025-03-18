@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Darsh76/node-docker-semantic/compare/v1.0.0...v1.1.0) (2025-03-18)
+
+
+### Features
+
+* initial release ([bdcf319](https://github.com/Darsh76/node-docker-semantic/commit/bdcf319e3dc4a78dfd56185b749a9a015da477fd))
+
 # 1.0.0 (2025-03-18)
 
 
